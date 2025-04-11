@@ -1,0 +1,22 @@
+# Временные файлы и ненужные форматы
+*.jpg
+*.png
+*.gif
+*.exe
+*.dll
+*.sys
+*.lnk
+*.url
+*.db
+*.psd
+*.ini
+*.bat
+*.cab
+*.inf
+*.cat
+*.tmp
+
+# Папки с мусором
+__pycache__/
+node_modules/
+722v3_win10/
