@@ -12,7 +12,7 @@ from datetime import datetime
 import random
 
 # === Конфигурация ===
-TOKEN = "7696464203:AAHo3Ne0EDdKgCJlAl9dj8PpcCbVhcCZdf4"
+TOKEN = "7696464203:AAEeceaMsz36om3ayFf1OI3OooQuIU5MX0s"
 HF_API_KEY = "hf_yiXHJcVgGElHAoknagufsiDerPyisexT"
 ADMINS = [996386959]
 DB_PATH = "dent_bot.db"
